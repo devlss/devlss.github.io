@@ -1,0 +1,28 @@
+body {
+	background-color: #2C2C32;
+}
+.logo {
+	background-image: url('../images/pre-under1.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	width: 800;
+	height: 300;
+}
+
+.text {
+	color: #2B2B31; 
+	font-variant: small-caps; 
+}
+
+.logo-container {
+	position:absolute;
+	width:100%;
+	height:100%;
+	color: white;
+	display: flex;
+	flex:1;
+	flex-direction:column;
+	align-content: center;
+	align-items: center;
+	justify-content: center;
+}
