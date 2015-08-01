@@ -2,11 +2,11 @@ body {
 	background-color: #2C2C32;
 }
 .logo {
+	width: 800px;
+	height: 300px;
 	background-image: url('../images/pre-under1.png');
 	background-repeat: no-repeat;
 	background-size: contain;
-	width: 800;
-	height: 300;
 }
 
 .text {
