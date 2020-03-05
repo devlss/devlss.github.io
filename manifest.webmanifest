@@ -1,0 +1,21 @@
+{
+    "short_name": "Activity",
+    "name": "Activity: create and follow",
+    "description": "Записи на мероприятия",
+    "icons": [{
+            "src": "/icons/logo-192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "/icons/logo.svg",
+            "type": "image/svg+xml",
+            "sizes": "512x512"
+        }
+    ],
+    "start_url": "/",
+    "background_color": "#1d2127",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "#fefff9"
+}
